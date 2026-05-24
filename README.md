@@ -91,7 +91,7 @@ Total Food Cost : ₹2400
 **👤 Tejas Nere**  
 💼 Engineering Student | Passionate Python Developer | UI/UX Enthusiast  
 
-📫 **Contact:** [LinkedIn Profile](#) *(replace with your link)*  
+📫 **Contact:** [LinkedIn Profile](https://www.linkedin.com/in/tejas-nere-44a2b3328/)   
 
 ---
 
